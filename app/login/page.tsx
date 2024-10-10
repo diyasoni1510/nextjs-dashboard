@@ -21,7 +21,8 @@ export default function LoginPage() {
             "mt-4 gap-5 float-start mr-auto flex h-10 items-center rounded-lg bg-blue-500 text-sm font-medium text-white transition-colors hover:bg-blue-400 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-blue-500 active:bg-blue-600 aria-disabled:cursor-not-allowed aria-disabled:opacity-50 px-5"
           )}
         >
-           <ArrowLeftIcon className="mr-auto h-5 w-5 text-gray-50" /><span>Back</span>
+          <ArrowLeftIcon className="mr-auto h-5 w-5 text-gray-50" />
+          <span>Home</span>
         </Link>
       </div>
 
